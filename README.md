@@ -30,5 +30,16 @@ Variables:
 	- ~Thermal Resistivity~
 	- ~Size of Tank~
 
+#### Maths:
+
+- [Pre-work](https://drive.google.com/file/d/10JyM6xL7lnx8d6g06p3uPnefjcwuT-mi/view?usp=sharing)
+
+### TODO:
+
+- [ ] work out the maths
+- [ ] offline version (spreadsheet based?)
+- [ ] online version
+
+
 
 
